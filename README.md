@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sahil Rajak</h1>
 <h3 align="center">A Software Developer, an Open-Source Contributor, Cloud Engineer and a Tech enthusiast</h3>
 <img align="right" alt="Coding" width="400" src=https://www.google.com/search?sca_esv=f6ce529cdacc1630&sca_upv=1&sxsrf=ADLYWIK6mUU46BJW4L_YhzV7iyHJZmBE9Q:1717600387485&q=animated+coding+gif&uds=ADvngMgm0nxuNfeVhyW4qf74Oq1lC9pELcwN4VAhZ3d8iPlFmMxEC529GiRISXNqfG3fsziLMbcCvhs4q77E91TFJ5uMaPvvbqeylvZD9GqRvhA7OzYhXhSl0qQnn91-p2B_4vywjaOjmK6vYXyZk2795oWPCeimAlNG-PJ85yclGjdcI24kBJ8JIkG1KacUsqZvskZ6lEmQn2BLNjGu62SN4gM-eBal1F_IMmFVf2qMBOphAaaIRWqPtkU4XrKNv5wF3lTX0savdjGySCwyBZmmPnZtzfiwNgNn5v8A7_Jgb0Mb972pP5OrdfifxueXJSA7le9CuXQKmhRfj-xgYpMkwLh_fgix2A&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjG8diH4MSGAxVSTmwGHVgHEeEQtKgLegQIEhAB&biw=1536&bih=735&dpr=1.25#vhid=Fe9w5pmKk2xu7M&vssid=mosaic/>
