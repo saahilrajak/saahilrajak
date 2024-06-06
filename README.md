@@ -1,14 +1,18 @@
 <p>
 <h1 align="center">Hi 👋, I'm Sahil Rajak </h1>
 <h3 align="center">A Software Developer, an Open-Source Contributor and a Tech enthusiast</h3>
-<img align="left" src="https://miro.medium.com/v2/resize:fit:564/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" alt="Sher"/>
 </p>
+
+![programming-angry-punching-keyboard-fw45yh2e39g24ylb](https://github.com/saahilrajak/saahilrajak/assets/110772316/7f466e05-5ee3-4528-98cb-c33dbbab6695)
+
 
 ## 😁 Meme
 
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming"> 
 
 ---
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahilrajak&label=Profile%20views&color=0e75b6&style=flat" alt="saahilrajak" /> </p>
 
 <p align="center">
@@ -44,5 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saahilrajak&" alt="saahilrajak" /></p>
 
+![images](https://github.com/saahilrajak/saahilrajak/assets/110772316/57187132-c955-4b8c-b899-b9427669a520)
 
 
